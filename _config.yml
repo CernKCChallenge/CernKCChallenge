@@ -11,7 +11,7 @@ title: CERN+KC Gigabit Challenge
 description: > 
   Advancing science with gigabit fiber and
   volunteer computing.
-baseurl: "/cernkcchallenge" # the subpath of your site, e.g. /blog
+baseurl: "/CernKCChallenge" # the subpath of your site, e.g. /blog
 url: "https://cernkcchallenge.github.io" # the base hostname & protocol for your site
 #twitter_username: user
 #github_username:  user
