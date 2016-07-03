@@ -16,10 +16,22 @@ Contributing is easy, and takes about ten minutes to set up. You'll set up vLHC@
 
 4. Finally, to participate in the CERN+KC Challenge, you must join "Team Kansas City!" The special jobs for fiber users are currently limited to participants on Team Kansas City, since this is a limited test. To join, go to the <a href="http://lhcathome2.cern.ch/vLHCathome/team_display.php?teamid=2839" target="_blank">Team Kansas City page</a>, log in to your account, and click "Join this team."
 
-5. Now you're all set! Thanks for joining and happy computing! You can track your statistics and see how your computers' crunching ability ranks against others by logging in to the <a href="http://lhcathome2.cern.ch/vLHCathome/" target="_blank">vLHC@Home BOINC site</a> or read more about the software at the <a href="http://lhcathome.web.cern.ch/" target="_blank">vLHC@Home project page</a>. If you need more help or have questions, check out the <a href="http://lhcathome.web.cern.ch/faq" target="_blank">vLHC@Home FAQ</a>.
+5. Now you're all set! Thanks for joining and happy computing! You can track your statistics and see how your computers' crunching ability ranks against others by logging in to the <a href="http://lhcathome2.cern.ch/vLHCathome/" target="_blank">vLHC@Home BOINC site</a> or read more about the software at the <a href="http://lhcathome.web.cern.ch/" target="_blank">vLHC@Home project page</a>. If you need more help or have questions, check out the <a href="http://lhcathome.web.cern.ch/faq" target="_blank">vLHC@Home FAQ</a>. Also, share this page:
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=CERNKC&text=Use%20your%20gigabit%20internet%20to%20analyze%20Large%20Hadron%20Collider%20data%20and%20help%20research%20in%20particle%20physics!" class="twitter-hashtag-button" data-url="https://cernkcchallenge.github.io/CernKCChallenge/">Tweet #CERNKC</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div class="fb-share-button" data-href="https://cernkcchallenge.github.io/CernKCChallenge/" data-layout="button" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcernkcchallenge.github.io%2FCernKCChallenge%2F&amp;src=sdkpreparse">Share #CERNKC</a></div>
 
 # Your Impact
 The research at the Large Hadron Collider contributes to our fundamental understanding of the universe. Particle physics research also drives innovation in fields ranging from medical imaging and cancer treatment to homeland security and next-generation energy and transportation technologies. In fact, the World Wide Web was developed at CERN! <a href="http://www.symmetrymagazine.org/article/october-2013/why-particle-physics-matters" target="_blank">Read more about the wide-ranging impacts</a>. Contributing to this project is an easy way to help push the boundaries of physics and advance science!
 
 # Contact
 Get stuck? Having problems? First, consult the <a href="http://lhcathome.web.cern.ch/faq" target="_blank">vLHC@Home FAQ</a>. Second, let us know by <a href="https://github.com/CernKCChallenge/CernKCChallenge/issues" target="_blank">filing an issue in GitHub</a>.
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
